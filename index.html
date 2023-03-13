@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="calculator">
+        <div id="display">
+            <div id="last-calc"></div>
+            <div id="result">
+                <img src="./assets/equals.svg" alt="sinal de igual">
+                <input type="text" id="displayResult"/>
+            </div>
+        </div>
+        <div id="keyboard">
+            <button onclick="DisplayClearAll()" class="secondary">CE</button>
+            <button onclick='DisplayClear()'>C</button>
+            <button>%</button>
+            <button class="tertiary"><img src="./assets/divide.svg" alt="" srcset="" onclick="adicionarCaracter('/')"></button>
+
+            <button onclick="adicionarCaracter('7')">7</button>
+            <button onclick="adicionarCaracter('8')">8</button>
+            <button onclick="adicionarCaracter('9')">9</button>
+            <button class="tertiary"><img src="./assets/x.svg" alt="" srcset="" onclick="adicionarCaracter('*')"></button>
+
+            <button onclick="adicionarCaracter('4')">4</button>
+            <button onclick="adicionarCaracter('5')">5</button>
+            <button onclick="adicionarCaracter('6')">6</button>
+            <button class="tertiary"><img src="./assets/minus.svg" alt="" srcset="" onclick="adicionarCaracter('-')"></button>
+
+            <button onclick="adicionarCaracter('1')">1</button>
+            <button onclick="adicionarCaracter('2')">2</button>
+            <button onclick="adicionarCaracter('3')">3</button>
+            <button class="tertiary"><img src="./assets/plus.svg" alt="" srcset="" onclick="adicionarCaracter('+')"></button>
+
+            <button id="invertValor"><img src="./assets/PlusMinus.svg" alt="" srcset=""></button>
+            <button onclick="adicionarCaracter('0')">0</button>
+            <button onclick="adicionarCaracter('.')">.</button>
+            <button class="quartiary equals"><img src="./assets/equals2.svg" alt="" srcset=""></button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
