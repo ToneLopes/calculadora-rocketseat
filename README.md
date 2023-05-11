@@ -1,12 +1,12 @@
-<h1 align="center"> Calculadora </h1>
+<h1 align="center"> Ambientes únicos para você! </h1>
 
 <p align="center">
-#boraCodar são desafios semanais, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Este é um projeto da RocketSeat do programa Explore composto por 20 módulos, com dezenas de aulas e tem como objetivo desenvolver habilidades técnicas e comportamentais a fim de que o aluno consiga se posicionar como profissional, conquiste oportunidades no mercado de trabalho e lide com desafios reais.são projetos do curso, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-link">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -17,11 +17,11 @@
 <br>
 
 <p align="center">
-  <img src="/assets/img/projeto-BoraCodar-calculadora-.jpg" width="100%">
+  <img src="images/print-projeto.png" width="100%">
 </p>
 <br>
 
-[Visualise o Projeto aqui](https://tonelopes.github.io/calculadora-rocketseat/)
+[Visualise o Projeto aqui](https://tonelopes.github.io/explore-01-moveis/)
 
 ## 🚀 Tecnologias
 
@@ -31,9 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 🔖 Layout
+## 🪐 Link
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1202607074523509182). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o projeto através [DESSE LINK](https://tonelopes.github.io/explore-01-moveis/). 
 
 ## :memo: Licença
 
@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por [Tone Lopes](https://tonelopes.github.io/portfolio/#home)
+Criado pela [RocketSeat] 💜(https://app.rocketseat.com.br/me/tone-monte-05654) Feito com 💛 por [Tone Lopes](https://tonelopes.github.io/portfolio/#home)
