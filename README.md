@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Criado pela [RocketSeat] 💜(https://app.rocketseat.com.br/me/tone-monte-05654) Feito com 💛 por [Tone Lopes](https://tonelopes.github.io/portfolio/#home)
+Criado pela [RocketSeat](https://app.rocketseat.com.br/me/tone-monte-05654) 💜 Feito com 💛 por [Tone Lopes](https://tonelopes.github.io/portfolio/#home)
